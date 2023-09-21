@@ -52,12 +52,22 @@ figcaption {
     font-family: 'Open Sans';
 }
 
-.red-link{
-    color: var(--red-color);
+.contact {
+    display: flex;
+    gap: 20px;
+    align-items: center;
 }
 
-.contatc a{
+.content-container .red-link {
+    color: var(--red-color);
+    font-family: 'Open Sans';
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.content-container i {
     color: #23C761;
+    font-size: 1.2rem;
 }
 
 .content-links {
