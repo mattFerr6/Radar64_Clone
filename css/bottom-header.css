@@ -1,0 +1,14 @@
+.bottom-header {
+    height: 33%;
+    background-color: #FFF;
+    border-top: 3px solid #f20000;
+    border-bottom: 2px solid var(--light-gray);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 160px;
+}
+
+.bottom-header i{
+    font-size: 1.2rem;
+}

@@ -1,0 +1,8 @@
+.top-header {
+    height: 67%;
+    background-color: var(--red-color);
+    padding: 0 170px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

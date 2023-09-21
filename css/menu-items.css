@@ -1,0 +1,12 @@
+.menu-items {
+    display: flex;
+    gap: 40px;
+}
+
+.menu-items a{
+    font-family: 'Sora', sans-serif;
+    text-decoration: none;
+    color: #161616;
+    font-size: 0.9rem;
+    font-weight: 700;
+}

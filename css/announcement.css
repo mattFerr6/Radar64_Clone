@@ -1,0 +1,21 @@
+.announcement {
+    height: 40vh;
+    background-color: var(--light-gray);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 35px;
+}
+
+.banner-marketing{
+    width: 60%;
+    height: 95%;
+    position: relative;
+}
+
+.banner-marketing img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
